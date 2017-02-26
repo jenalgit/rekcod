@@ -1,0 +1,11 @@
+Docker for Developers 2016 (5.0/1)
+Docker Cookbook: Solutions and Examples for Building Distributed Applications 2016 (4.4/3)
+Docker in Action 2016 (4.1/17)
+Using Docker: Developing and Deploying Software with Containers 2016 (4.1/9)
+Docker in Practice 2016 (4.1/9)
+Docker: The Ultimate Beginners Guide to Starting with and Mastering Docker Fast! 2016 (3.2/9)
+Extending Docker 2016
+Docker: Up & Running: Shipping Reliable Containers in Production 2015 (4.0/30)
+Learning Docker 2015 (3.9/4)
+Mastering Docker 2015 (3.3/4)
+The Docker Book: Containerization is the new virtualization 2014 (4.4/82)
